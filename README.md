@@ -1,2 +1,2 @@
 # Twitter-bot
-This bot is a basic prototype to demonstrate auto-reply on Twitter.
+This bot is a project to demonstrate auto-reply on Twitter.
